@@ -59,3 +59,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+REFERENCIAS!!!
+
+MUITAS COISAS FORAM PEGAS NAS ATIVIDADES ANTERIORES, POR EXEMPLO A LISTAGEM DE CLIENTES E ALGUNS COMANDOS MAIS SIMPLES!!
+
+como usar o viaCEP
+https://viacep.com.br/exemplo/javascript
+https://www.youtube.com/watch?v=3W3Nk-bxaIs   ultilizei o video como base e fui montando o código depois
+
+Manipulação de formulario e validação
+https://www.hostinger.com/br/tutoriais/tutorial-laravel
+https://laravel.com/docs/12.x/validation
+https://www.youtube.com/watch?v=CF1yNm0ewds&t=21s   ultilizei bastante informações sobre validações com esse video
+
+upload de imagens e lógica de controller
+https://www.youtube.com/watch?v=l7XM8lLDPWs  ultilizei muitas coisas do video mesmo que ele use um metodo diferente para upload de imagens
+https://laravel.com/docs/12.x/filesystem#the-public-disk   usei apenas algumas das informações
+https://laravel.com/docs/12.x/routing#route-group-prefixes   somente algumas coias tambem
+https://www.laravelblogs.com/post/laravel-delete-old-unused-files-how-examples
